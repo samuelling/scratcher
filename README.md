@@ -5,7 +5,7 @@ A live-input DVS for the **Headache Sound WOW** (Wow & Flutter machine). The WOW
 It comes in two forms:
 
 - **iPad / iPhone app + AUv3 plugin** (`ios/`): native, lowest latency, full interface channel routing, a one-switch WOW setup screen, and an Audio Unit effect for AUM and other hosts.
-- **Web app**, a single self-contained page: **https://samuelling.github.io/Scratcher/**. It matches the iPhone app feature for feature: Scratch / Setup / Feel tabs, ? help and a first-time walkthrough, the one-switch WOW setup, input channels picked by number, and the built-in “ahhh / fresh” loop. Use **Chrome or Firefox**: other browsers may pass only 2 channels of audio in and out. Switching the WOW from the browser needs Chrome or Edge.
+- **Web app**, a single self-contained page: **https://linglab.org/scratcher/**. It matches the iPhone app feature for feature: Scratch / Setup / Feel tabs, ? help and a first-time walkthrough, the one-switch WOW setup, input channels picked by number, and the built-in “ahhh / fresh” loop. Use **Chrome or Firefox**: other browsers may pass only 2 channels of audio in and out. Switching the WOW from the browser needs Chrome or Edge.
 
 The two apps are kept aligned: a change to one goes into the other (see `CLAUDE.md`).
 
